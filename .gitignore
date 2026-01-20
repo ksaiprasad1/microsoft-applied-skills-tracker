@@ -1,0 +1,24 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Personal Notes
+personal-notes/
+private/
+
+# Certificates (if containing sensitive info)
+# certificates/private/
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
