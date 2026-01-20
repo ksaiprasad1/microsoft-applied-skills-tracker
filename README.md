@@ -29,7 +29,7 @@ Microsoft Applied Skills are interactive, scenario-based assessments that valida
 ### Skills by Status
 | Status | Count |
 |--------|-------|
-| ⬜ Not Started | 0 |
+| ⬜ Not Started | 40 |
 | 🔄 In Progress | 0 |
 | ✅ Completed | 0 |
 | ⏸️ On Hold | 0 |
@@ -42,87 +42,75 @@ Microsoft Applied Skills are interactive, scenario-based assessments that valida
 
 | Skill Name | Code | Status | Started | Completed | Certificate |
 |------------|------|--------|---------|-----------|-------------|
-| Build a natural language processing solution with Azure AI Language | AI-3003 | ⬜ Not Started | - | - | - |
-| Create an intelligent document processing solution with Azure AI Document Intelligence | AI-3002 | ⬜ Not Started | - | - | - |
-| Build an Azure AI Vision solution | AI-3004 | ⬜ Not Started | - | - | - |
-| Develop generative AI solutions with Azure OpenAI Service | AI-102 | ⬜ Not Started | - | - | - |
-| Train and deploy a machine learning model with Azure Machine Learning | - | ⬜ Not Started | - | - | - |
+| [Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-ai/) | AI-3003 | ⬜ Not Started | - | - | - |
+| [Create an intelligent document processing solution with Azure AI Document Intelligence](https://learn.microsoft.com/en-us/credentials/applied-skills/create-intelligent-document-solution-azure-ai/) | AI-3002 | ⬜ Not Started | - | - | - |
+| [Build an Azure AI Vision solution](https://learn.microsoft.com/en-us/credentials/applied-skills/build-azure-ai-vision-solution/) | AI-3004 | ⬜ Not Started | - | - | - |
+| [Develop generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/) | - | ⬜ Not Started | - | - | - |
+| [Train and deploy a machine learning model with Azure Machine Learning](https://learn.microsoft.com/en-us/credentials/applied-skills/train-and-deploy-a-machine-learning-model-with-azure-machine-learning/) | - | ⬜ Not Started | - | - | - |
 
 ### ☁️ Azure Infrastructure & Administration
 
 | Skill Name | Code | Status | Started | Completed | Certificate |
 |------------|------|--------|---------|-----------|-------------|
-| Deploy and configure Azure Monitor | AZ-1001 | ⬜ Not Started | - | - | - |
-| Deploy containers by using Azure Kubernetes Service | AZ-1003 | ⬜ Not Started | - | - | - |
-| Configure secure access to your workloads using Azure networking | AZ-1002 | ⬜ Not Started | - | - | - |
-| Deploy cloud-native apps using Azure Container Apps | - | ⬜ Not Started | - | - | - |
-| Deploy and administer Linux Virtual Machines on Microsoft Azure | AZ-1007 | ⬜ Not Started | - | - | - |
-| Host a web application with Azure App Service | - | ⬜ Not Started | - | - | - |
-| Manage Azure Kubernetes Service with Azure Arc | - | ⬜ Not Started | - | - | - |
+| [Deploy and configure Azure Monitor](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/) | AZ-1001 | ⬜ Not Started | - | - | - |
+| [Deploy containers by using Azure Kubernetes Service](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-containers-by-using-azure-kubernetes-service/) | AZ-1003 | ⬜ Not Started | - | - | - |
+| [Configure secure access to your workloads using Azure networking](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-secure-workloads-use-azure-virtual-networking/) | AZ-1002 | ⬜ Not Started | - | - | - |
+| [Deploy cloud-native apps using Azure Container Apps](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-cloud-native-apps-using-azure-container-apps/) | - | ⬜ Not Started | - | - | - |
+| [Deploy and administer Linux Virtual Machines on Microsoft Azure](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-administer-linux-virtual-machines-on-microsoft-azure/) | AZ-1007 | ⬜ Not Started | - | - | - |
+| [Host a web application with Azure App Service](https://learn.microsoft.com/en-us/credentials/applied-skills/host-a-web-application-with-azure-app-service/) | - | ⬜ Not Started | - | - | - |
 
 ### 🔐 Security & Compliance
 
 | Skill Name | Code | Status | Started | Completed | Certificate |
 |------------|------|--------|---------|-----------|-------------|
-| Configure SIEM security operations using Microsoft Sentinel | SC-5001 | ⬜ Not Started | - | - | - |
-| Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls | SC-5002 | ⬜ Not Started | - | - | - |
-| Secure storage for Azure Files and Azure Blob Storage | AZ-1004 | ⬜ Not Started | - | - | - |
-| Implement security through a pipeline using Azure DevOps | AZ-2001 | ⬜ Not Started | - | - | - |
-| Secure Azure SQL Database | - | ⬜ Not Started | - | - | - |
+| [Configure SIEM security operations using Microsoft Sentinel](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/) | SC-5001 | ⬜ Not Started | - | - | - |
+| [Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-azure-services-and-workloads-with-microsoft-defender-for-cloud-regulatory-compliance-controls/) | SC-5002 | ⬜ Not Started | - | - | - |
+| [Secure storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-for-azure-files-and-azure-blob-storage/) | AZ-1004 | ⬜ Not Started | - | - | - |
+| [Implement security through a pipeline using Azure DevOps](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-security-through-pipeline-using-devops/) | AZ-2001 | ⬜ Not Started | - | - | - |
+| [Secure Azure SQL Database](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-azure-sql-database/) | - | ⬜ Not Started | - | - | - |
 
 ### 🔑 Identity & Access Management
 
 | Skill Name | Code | Status | Started | Completed | Certificate |
 |------------|------|--------|---------|-----------|-------------|
-| Administer Active Directory Domain Services | - | ⬜ Not Started | - | - | - |
-| Get started with identities and access using Microsoft Entra | - | ⬜ Not Started | - | - | - |
-| Secure Azure Active Directory users with multifactor authentication | - | ⬜ Not Started | - | - | - |
+| [Administer Active Directory Domain Services](https://learn.microsoft.com/en-us/credentials/applied-skills/administer-active-directory-domain-services/) | - | ⬜ Not Started | - | - | - |
+| [Get started with identities and access using Microsoft Entra](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-identities-and-access-using-microsoft-entra/) | - | ⬜ Not Started | - | - | - |
 
 ### 💻 Application Development
 
 | Skill Name | Code | Status | Started | Completed | Certificate |
 |------------|------|--------|---------|-----------|-------------|
-| Build a web app with ASP.NET Core | - | ⬜ Not Started | - | - | - |
-| Develop an ASP.NET Core web app that consumes an API | AZ-2003 | ⬜ Not Started | - | - | - |
-| Build collaborative apps for Microsoft Teams | - | ⬜ Not Started | - | - | - |
-| Create serverless applications with Azure Functions | - | ⬜ Not Started | - | - | - |
-| Develop solutions with Azure Cosmos DB | - | ⬜ Not Started | - | - | - |
+| [Build a web app with ASP.NET Core](https://learn.microsoft.com/en-us/credentials/applied-skills/build-a-web-app-with-aspnet-core/) | - | ⬜ Not Started | - | - | - |
+| [Develop an ASP.NET Core web app that consumes an API](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-an-aspnet-core-web-app-that-consumes-an-api/) | AZ-2003 | ⬜ Not Started | - | - | - |
+| [Build collaborative apps for Microsoft Teams](https://learn.microsoft.com/en-us/credentials/applied-skills/build-collaborative-apps-for-microsoft-teams/) | - | ⬜ Not Started | - | - | - |
+| [Develop solutions with Azure Cosmos DB](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-solutions-with-azure-cosmos-db/) | - | ⬜ Not Started | - | - | - |
 
 ### 📊 Data Management & Analytics
 
 | Skill Name | Code | Status | Started | Completed | Certificate |
 |------------|------|--------|---------|-----------|-------------|
-| Migrate SQL Server workloads to Azure SQL Database | - | ⬜ Not Started | - | - | - |
-| Implement a data warehouse with Azure Synapse Analytics | - | ⬜ Not Started | - | - | - |
-| Design and implement a data science solution on Azure | - | ⬜ Not Started | - | - | - |
-| Implement a data streaming solution with Azure Stream Analytics | - | ⬜ Not Started | - | - | - |
+| [Migrate SQL Server workloads to Azure SQL Database](https://learn.microsoft.com/en-us/credentials/applied-skills/migrate-sql-workloads-azure-sql-database/) | - | ⬜ Not Started | - | - | - |
+| [Implement a data warehouse with Azure Synapse Analytics](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-a-data-warehouse-with-azure-synapse-analytics/) | - | ⬜ Not Started | - | - | - |
 
 ### 🔧 Power Platform
 
 | Skill Name | Code | Status | Started | Completed | Certificate |
 |------------|------|--------|---------|-----------|-------------|
-| Create and manage automated processes by using Power Automate | PL-7002 | ⬜ Not Started | - | - | - |
-| Create and manage canvas apps with Power Apps | PL-7001 | ⬜ Not Started | - | - | - |
-| Create and manage model-driven apps with Power Apps and Dataverse | PL-7003 | ⬜ Not Started | - | - | - |
-| Build a Power BI report with Power BI Desktop | - | ⬜ Not Started | - | - | - |
-| Implement Copilot for Microsoft Power Platform solutions | - | ⬜ Not Started | - | - | - |
+| [Create and manage automated processes by using Power Automate](https://learn.microsoft.com/en-us/credentials/applied-skills/create-and-manage-automated-processes-by-using-power-automate/) | PL-7002 | ⬜ Not Started | - | - | - |
+| [Create and manage canvas apps with Power Apps](https://learn.microsoft.com/en-us/credentials/applied-skills/create-and-manage-canvas-apps-with-power-apps/) | PL-7001 | ⬜ Not Started | - | - | - |
+| [Create and manage model-driven apps with Power Apps and Dataverse](https://learn.microsoft.com/en-us/credentials/applied-skills/create-and-manage-model-driven-apps-with-power-apps-and-dataverse/) | PL-7003 | ⬜ Not Started | - | - | - |
 
 ### 💼 Microsoft 365 & Business Applications
 
 | Skill Name | Code | Status | Started | Completed | Certificate |
 |------------|------|--------|---------|-----------|-------------|
-| Manage identities and governance for Microsoft 365 | - | ⬜ Not Started | - | - | - |
-| Configure and manage SharePoint Online | - | ⬜ Not Started | - | - | - |
-| Manage Microsoft Teams | - | ⬜ Not Started | - | - | - |
-| Deploy and manage Microsoft 365 Copilot | - | ⬜ Not Started | - | - | - |
+| [Manage Microsoft Teams](https://learn.microsoft.com/en-us/credentials/applied-skills/manage-microsoft-teams/) | - | ⬜ Not Started | - | - | - |
 
 ### 🔄 DevOps & Automation
 
 | Skill Name | Code | Status | Started | Completed | Certificate |
 |------------|------|--------|---------|-----------|-------------|
-| Implement CI/CD with Azure Pipelines | - | ⬜ Not Started | - | - | - |
-| Automate deployment by using ARM templates or Bicep | - | ⬜ Not Started | - | - | - |
-| Implement infrastructure as code with Azure, Bicep, and GitHub Actions | - | ⬜ Not Started | - | - | - |
+| [Implement infrastructure as code with Azure, Bicep, and GitHub Actions](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-infrastructure-code-azure-bicep-github-actions/) | - | ⬜ Not Started | - | - | - |
 
 ---
 
@@ -206,25 +194,16 @@ Microsoft Applied Skills are interactive, scenario-based assessments that valida
 
 ## 🏆 Completed Skills Log
 
-### [Date] - [Skill Name]
-**Assessment Duration**: X hours
-**Score/Result**: Pass/Fail
-**Key Learnings:**
-- Learning point 1
-- Learning point 2
-- Learning point 3
+### Template for Each Completed Skill
 
-**Challenges Faced:**
-- Challenge 1
-- Challenge 2
-
-**Resources Used:**
-- Resource 1
-- Resource 2
-
-**Next Steps:**
-- Apply skills in project X
-- Move on to related skill Y
+**[Date] - [Skill Name]**
+- **Assessment Duration**: X hours
+- **Score/Result**: Pass/Fail
+- **Key Learnings**: 
+  - Point 1
+  - Point 2
+- **Challenges Faced**: Description
+- **Next Steps**: What to do next
 
 ---
 
@@ -254,11 +233,10 @@ Microsoft Applied Skills are interactive, scenario-based assessments that valida
 
 Tracking your Applied Skills journey too? Let's connect!
 
-- **GitHub**: [Your Username]
-- **LinkedIn**: [Your Profile]
+- **GitHub**: [ksaiprasad1](https://github.com/ksaiprasad1)
+- **LinkedIn**: [Your LinkedIn Profile]
 - **Microsoft Learn Profile**: [Your Profile URL]
-- **Twitter/X**: [Your Handle]
-- **Email**: [Your Email]
+- **Email**: ksaiprasad1@outlook.com
 
 ---
 
@@ -348,4 +326,4 @@ microsoft-applied-skills-tracker/
 
 ---
 
-**Pro Tip**: Star ⭐ this repository and watch for updates as new Applied Skills are released!
+**Pro Tip**: ⭐ Star this repository to bookmark it, and click "Watch" to get notifications when you update it!
