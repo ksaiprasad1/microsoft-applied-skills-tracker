@@ -29,9 +29,9 @@ Microsoft Applied Skills are interactive, scenario-based assessments that valida
 ### Skills by Status
 | Status | Count |
 |--------|-------|
-| ⬜ Not Started | 40 |
+| ⬜ Not Started | 39 |
 | 🔄 In Progress | 0 |
-| ✅ Completed | 0 |
+| ✅ Completed | 1 |
 | ⏸️ On Hold | 0 |
 
 ---
