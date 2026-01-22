@@ -29,9 +29,9 @@ Microsoft Applied Skills are interactive, scenario-based assessments that valida
 ### Skills by Status
 | Status | Count |
 |--------|-------|
-| ⬜ Not Started | 39 |
-| 🔄 In Progress | 0 |
-| ✅ Completed | 1 |
+| ⬜ Not Started | 35 |
+| 🔄 In Progress | 4 |
+| ✅ Completed | 2 |
 | ⏸️ On Hold | 0 |
 
 ---
@@ -52,7 +52,7 @@ Microsoft Applied Skills are interactive, scenario-based assessments that valida
 
 | Skill Name | Code | Status | Started | Completed | Certificate |
 |------------|------|--------|---------|-----------|-------------|
-| [Deploy and configure Azure Monitor](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/) | AZ-1001 | ⬜ Not Started | - | - | - |
+| [Deploy and configure Azure Monitor](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/) | AZ-1001 |  ✅ Completed | - | - | - |
 | [Deploy containers by using Azure Kubernetes Service](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-containers-by-using-azure-kubernetes-service/) | AZ-1003 | ⬜ Not Started | - | - | - |
 | [Configure secure access to your workloads using Azure networking](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-secure-workloads-use-azure-virtual-networking/) | AZ-1002 | ⬜ Not Started | - | - | - |
 | [Deploy cloud-native apps using Azure Container Apps](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-cloud-native-apps-using-azure-container-apps/) | - | ⬜ Not Started | - | - | - |
