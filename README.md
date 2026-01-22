@@ -74,7 +74,7 @@ Microsoft Applied Skills are interactive, scenario-based assessments that valida
 | Skill Name | Code | Status | Started | Completed | Certificate |
 |------------|------|--------|---------|-----------|-------------|
 | [Administer Active Directory Domain Services](https://learn.microsoft.com/en-us/credentials/applied-skills/administer-active-directory-domain-services/) | - | ⬜ Not Started | - | - | - |
-| [Get started with identities and access using Microsoft Entra](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-identities-and-access-using-microsoft-entra/) | - | ⬜ Not Started | - | - | - |
+| [Get started with identities and access using Microsoft Entra](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-identities-and-access-using-microsoft-entra/) | - | ✅ Completed  | - | - | - |
 
 ### 💻 Application Development
 
