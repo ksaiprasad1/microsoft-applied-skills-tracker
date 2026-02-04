@@ -33,20 +33,21 @@ Microsoft Applied Skills are interactive, scenario-based assessments that valida
 
 ### Overall Statistics
 
-* **Total Skills Available**: 42
+* **Total Skills Available**: 42 (on poster) + 8 (additional active) = 50 total
 * **Technical Skills**: 32
 * **Business Skills**: 10
-* **Completed**: 0
+* **Completed**: 4 ✅
 * **In Progress**: 0
 * **Planned**: 0
+* **Completion Rate**: 8% (4/50)
 
 ### Skills by Status
 
 | Status | Count |
 | --- | --- |
-| ⬜ Not Started | 42 |
+| ✅ Completed | 4 |
+| ⬜ Not Started | 46 |
 | 🔄 In Progress | 0 |
-| ✅ Completed | 0 |
 | ⏸️ On Hold | 0 |
 
 ---
@@ -62,7 +63,7 @@ Microsoft Applied Skills are interactive, scenario-based assessments that valida
 | [Create an AI agent](https://learn.microsoft.com/en-us/credentials/applied-skills/) | 🆕 Technical | - | ⬜ Coming Soon | - | - | - |
 | [Get started with classes, properties, and methods in C#](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-classes-properties-and-methods-in-csharp/) | Technical | - | ⬜ Not Started | - | - | - |
 | [Get started with cloud security and monitoring tasks](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-cloud-security-and-monitoring-tasks/) | Technical | - | ⬜ Not Started | - | - | - |
-| [Get started with Azure management tasks](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-azure-management-tasks/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Get started with Azure management tasks](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-azure-management-tasks/) | Technical | - | ✅ Completed | 2026-01-19 | 2026-01-19 | [View](https://learn.microsoft.com/en-gb/users/ksaiprasad1/credentials/applied-skills/b092359ba9365f35#applied-skills) |
 
 #### ☁️ Intermediate Level
 
@@ -74,8 +75,8 @@ Microsoft Applied Skills are interactive, scenario-based assessments that valida
 | [Build AI-powered solutions by using Microsoft Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/credentials/applied-skills/build-ai-powered-solutions-by-using-microsoft-azure-database-for-postgresql/) | Technical | - | ⬜ Not Started | - | - | - |
 | [Build a generative AI chat app](https://learn.microsoft.com/en-us/credentials/applied-skills/build-a-generative-ai-chat-app/) | 🆕 Technical | - | ⬜ Not Started | - | - | - |
 | [Configure and migrate to Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-and-migrate-to-azure-database-for-postgresql/) | Technical | - | ⬜ Not Started | - | - | - |
-| [Configure secure access to your workloads using Azure networking](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-secure-workloads-use-azure-virtual-networking/) | Technical | AZ-1002 | ⬜ Not Started | - | - | - |
-| [Deploy and configure Azure Monitor](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/) | Technical | AZ-1001 | ⬜ Not Started | - | - | - |
+| [Configure secure access to your workloads using Azure networking](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-secure-workloads-use-azure-virtual-networking/) | Technical | AZ-1002 | ✅ Completed | 2026-01-20 | 2026-01-20 | [View](https://learn.microsoft.com/en-gb/users/ksaiprasad1/credentials/applied-skills/b092359ba9365f35#applied-skills) |
+| [Deploy and configure Azure Monitor](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/) | Technical | AZ-1001 | ✅ Completed | 2026-01-16 | 2026-01-16 | [View](https://learn.microsoft.com/en-gb/users/ksaiprasad1/credentials/applied-skills/b092359ba9365f35#applied-skills) |
 | [Deploy cloud-native apps using Azure Container Apps](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-cloud-native-apps-using-azure-container-apps/) | Technical | - | ⬜ Not Started | - | - | - |
 | [Develop generative AI apps with Azure OpenAI and Semantic Kernel](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-using-microsoft-azure-openai-and-semantic-kernel/) | Technical | - | ⬜ Not Started | - | - | - |
 | [Develop data-driven applications by using Microsoft Azure SQL Database](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-data-driven-applications-azure-sql-database/) | Technical | - | ⬜ Not Started | - | - | - |
@@ -117,7 +118,7 @@ Microsoft Applied Skills are interactive, scenario-based assessments that valida
 
 | Skill Name | Type | Code | Status | Started | Completed | Certificate |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Get started with identities and access using Microsoft Entra](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-identities-and-access-using-microsoft-entra/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Get started with identities and access using Microsoft Entra](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-identities-and-access-using-microsoft-entra/) | Technical | - | ✅ Completed | 2026-01-13 | 2026-01-13 | [View](https://learn.microsoft.com/en-gb/users/ksaiprasad1/credentials/applied-skills/b092359ba9365f35#applied-skills) |
 
 #### 🛡️ Intermediate Level
 
@@ -281,6 +282,46 @@ Microsoft offers various accommodations for learners who need support. Visit the
 
 ## 🏆 Completed Skills Log
 
+### ✅ January 20, 2026 - Configure secure access to your workloads using Azure networking
+
+* **Skill Type**: Technical
+* **Skill Level**: Intermediate
+* **Category**: Cloud & AI Platforms
+* **Skill Code**: AZ-1002
+* **Status**: ✅ Completed
+
+---
+
+### ✅ January 19, 2026 - Get started with Azure management tasks
+
+* **Skill Type**: Technical
+* **Skill Level**: Beginner
+* **Category**: Cloud & AI Platforms
+* **Status**: ✅ Completed
+
+---
+
+### ✅ January 16, 2026 - Deploy and configure Azure Monitor
+
+* **Skill Type**: Technical
+* **Skill Level**: Intermediate
+* **Category**: Cloud & AI Platforms
+* **Skill Code**: AZ-1001
+* **Status**: ✅ Completed
+
+---
+
+### ✅ January 13, 2026 - Get started with identities and access using Microsoft Entra
+
+* **Skill Type**: Technical
+* **Skill Level**: Beginner
+* **Category**: Security
+* **Status**: ✅ Completed
+
+---
+
+## 🏆 Completed Skills Log
+
 ### Template for Each Completed Skill
 
 **[Date] - [Skill Name]**
@@ -314,17 +355,17 @@ Microsoft offers various accommodations for learners who need support. Visit the
 
 ## 🎉 Achievements & Milestones
 
-* ☐ First Applied Skills credential earned
+* ✅ First Applied Skills credential earned - **January 13, 2026**
 * ☐ First Business credential earned
-* ☐ First Technical credential earned
-* ☐ First Beginner level credential
-* ☐ First Intermediate level credential
-* ☐ 5 credentials completed
+* ✅ First Technical credential earned - **January 13, 2026**
+* ✅ First Beginner level credential - **January 13, 2026**
+* ✅ First Intermediate level credential - **January 16, 2026**
+* ☐ 5 credentials completed (4/5 - 80% there!)
 * ☐ 10 credentials completed
 * ☐ 15 credentials completed
 * ☐ 20 credentials completed
-* ☐ Completed all beginner level skills
-* ☐ Completed skills in all three categories
+* ☐ Completed all beginner level skills (2/7 completed)
+* ☐ Completed skills in all three categories (2/3 completed: Cloud & AI Platforms ✅, Security ✅)
 * ☐ Participated in Microsoft Credentials AI Challenge
 * ☐ Shared credential on LinkedIn
 * ☐ Built portfolio project using earned skills
@@ -338,7 +379,7 @@ Tracking your Applied Skills journey too? Let's connect!
 
 * **GitHub**: [ksaiprasad1](https://github.com/ksaiprasad1)
 * **LinkedIn**: [Your LinkedIn Profile]
-* **Microsoft Learn Profile**: [Your Profile URL]
+* **Microsoft Learn Profile**: [ksaiprasad1](https://learn.microsoft.com/en-gb/users/ksaiprasad1/credentials/applied-skills/b092359ba9365f35#applied-skills)
 * **Email**: [ksaiprasad1@outlook.com](mailto:ksaiprasad1@outlook.com)
 
 ---
