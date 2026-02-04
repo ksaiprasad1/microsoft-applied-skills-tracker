@@ -146,35 +146,6 @@ Microsoft Applied Skills are interactive, scenario-based assessments that valida
 | [Develop generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/) | Technical | - | ⬜ Not Started | - | - | - |
 | [Train and deploy a machine learning model with Azure Machine Learning](https://learn.microsoft.com/en-us/credentials/applied-skills/train-and-deploy-a-machine-learning-model-with-azure-machine-learning/) | Technical | - | ⬜ Not Started | - | - | - |
 
----
-
-## 📈 Learning Path
-
-### Current Focus (Q1 2026)
-
-* Review all available Applied Skills
-* Select first skill to pursue based on career goals
-* Complete preparation learning path
-* Schedule and complete first assessment
-
-### Next Quarter Goals (Q2 2026)
-
-1. Complete 3-5 Applied Skills
-2. Focus on one specific category (Cloud & AI Platforms, AI Business Solutions, or Security)
-3. Build portfolio projects demonstrating skills
-4. Explore new business-focused credentials
-
-### 2026 Annual Goals
-
-* Complete 10-15 Applied Skills
-* Cover at least 3 different categories
-* Earn both Technical and Business credentials
-* Share achievements on LinkedIn
-* Build real-world projects demonstrating skills
-* Participate in Microsoft Credentials AI Challenge
-
----
-
 ## 🆕 What's New in 2026
 
 ### New Applied Skills (January 2026)
@@ -423,22 +394,7 @@ Tracking your Applied Skills journey too? Let's connect!
 * Additional business-focused credentials expected throughout 2026
 * More AI and Microsoft 365 Copilot related skills
 
-### My Personal Roadmap
 
-**Phase 1: Foundation (Q1 2026)**
-- [ ] Select priority skills aligned with career goals
-- [ ] Complete first beginner-level skill
-- [ ] Establish consistent study schedule
-
-**Phase 2: Building Momentum (Q2 2026)**
-- [ ] Earn 3-5 Applied Skills
-- [ ] Start intermediate-level skills
-- [ ] Build portfolio project
-
-**Phase 3: Diversification (Q3-Q4 2026)**
-- [ ] Explore all three categories
-- [ ] Mix technical and business skills
-- [ ] Consider related certifications
 
 ---
 
