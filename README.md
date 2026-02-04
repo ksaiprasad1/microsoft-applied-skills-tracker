@@ -125,11 +125,11 @@ Microsoft Applied Skills are interactive, scenario-based assessments that valida
 | Skill Name | Type | Code | Status | Started | Completed | Certificate |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Defend against cyberthreats with Microsoft Defender XDR](https://learn.microsoft.com/en-us/credentials/applied-skills/defend-against-cyberthreats-with-microsoft-defender-xdr/) | Technical | - | ⬜ Not Started | - | - | - |
-| [Implement information protection and data loss prevention by using Microsoft Purview](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-information-protection-and-data-loss-prevention-by-using-microsoft-purview/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Implement information protection and data loss prevention by using Microsoft Purview](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-information-protection-and-data-loss-prevention-by-using-microsoft-purview/) | Technical | - | 🔄 In Progress| - | - | - |
 | [Implement retention, eDiscovery, and Communication Compliance in Microsoft Purview](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-retention-ediscovery-and-communication-compliance-in-microsoft-purview/) | Technical | - | ⬜ Not Started | - | - | - |
 | [Secure AI solutions in the cloud](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-ai-solutions-in-the-cloud/) | 🆕 Technical | - | ⬜ Not Started | - | - | - |
 | [Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-azure-services-and-workloads-with-microsoft-defender-for-cloud-regulatory-compliance-controls/) | Technical | SC-5002 | ⬜ Not Started | - | - | - |
-| [Secure storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/) | Technical | AZ-1004 | ⬜ Not Started | - | - | - |
+| [Secure storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/) | Technical | AZ-1004 | 🔄 In Progress | - | - | - |
 
 ---
 
