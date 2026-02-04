@@ -1,355 +1,476 @@
-# 📋 Microsoft Applied Skills - Quick Checklist
+# 🎯 Microsoft Applied Skills Tracker
 
-> **Last Updated**: February 2026  
-> **Total Skills**: 50 (42 on poster + 8 additional active)  
-> **Completed**: 4 ✅ | **In Progress**: 0 | **Remaining**: 46
+## 📌 Overview
 
----
+This repository tracks my journey through Microsoft Applied Skills credentials. Applied Skills are scenario-based credentials that validate hands-on technical skills in specific Microsoft technologies.
 
-## 🎯 Quick Stats
+> **Last Updated**: January 2026 (Based on Official Microsoft Applied Skills Poster)
 
-| Category | Total | Completed | Remaining |
-|----------|-------|-----------|-----------|
-| 🌐 Cloud & AI Platforms | 22 | 3 ✅ | 19 |
-| 🤖 AI Business Solutions | 8 | 0 | 8 |
-| 🔐 Security | 7 | 1 ✅ | 6 |
-| 📦 Additional Active Skills | 8 | 0 | 8 |
-| **TOTAL** | **50** | **4** | **46** |
+## 🎓 About Microsoft Applied Skills
 
-**Completion Rate**: 8% (4/50)
+Microsoft Applied Skills are interactive, scenario-based assessments that validate real-world technical expertise. Each credential demonstrates proficiency in specific job tasks using Microsoft technologies through hands-on lab-based assessments.
 
----
+**Key Features:**
 
-## 🌐 Cloud & AI Platforms (22 Skills)
+* **FREE to take** (as of 2026)
+* **No expiration date** - credentials last indefinitely
+* **Interactive lab-based assessments** with real-world tasks
+* **Immediate results** - typically within minutes
+* **Two types**: Technical credentials (blue) and Business credentials (pink)
+* **Skill levels**: Beginner and Intermediate
 
-### Beginner Level (4 Skills)
+**Official Resources:**
 
-- [ ] Create an AI agent 🆕 🔜 (Coming Soon)
-- [ ] Get started with classes, properties, and methods in C#
-- [ ] Get started with cloud security and monitoring tasks
-- [x] **Get started with Azure management tasks** ✅ *Completed: 2026-01-19*
-
-**Beginner Progress**: 1/4 (25%)
-
----
-
-### Intermediate Level (18 Skills)
-
-- [ ] Accelerate app development by using GitHub Copilot
-- [ ] Administer Active Directory Domain Services
-- [ ] Build a natural language processing solution with Azure AI Language (AI-3003)
-- [ ] Build AI-powered solutions by using Microsoft Azure Database for PostgreSQL
-- [ ] Build a generative AI chat app 🆕
-- [ ] Configure and migrate to Azure Database for PostgreSQL
-- [x] **Configure secure access to your workloads using Azure networking (AZ-1002)** ✅ *Completed: 2026-01-20*
-- [x] **Deploy and configure Azure Monitor (AZ-1001)** ✅ *Completed: 2026-01-16*
-- [ ] Deploy cloud-native apps using Azure Container Apps
-- [ ] Develop generative AI apps with Azure OpenAI and Semantic Kernel
-- [ ] Develop data-driven applications by using Microsoft Azure SQL Database
-- [ ] Enhance agents with autonomous capabilities 🆕
-- [ ] Extend Microsoft 365 Copilot with declarative agents by using Visual Studio Code
-- [ ] Implement knowledge mining with Azure AI Search
-- [ ] Implement a Real-Time Intelligence solution with Microsoft Fabric
-- [ ] Implement a data warehouse in Microsoft Fabric
-- [ ] Implement security through a pipeline using Azure DevOps (AZ-2001)
-- [ ] Migrate SQL Server workloads to Azure SQL Database
-
-**Intermediate Progress**: 2/18 (11%)
-
----
-
-## 🤖 AI Business Solutions (8 Skills)
-
-### Beginner Level (2 Skills)
-
-- [ ] Generate reports by using AI research agents 🆕
-- [ ] Streamline business workflows with AI chat 🆕
-
-**Beginner Progress**: 0/2 (0%)
-
----
-
-### Intermediate Level (6 Skills)
-
-- [ ] Automate Azure Load Testing by using GitHub Actions
-- [ ] Create agents in Microsoft Copilot Studio
-- [ ] Create and manage canvas apps with Power Apps (PL-7001)
-- [ ] Create and manage model-driven apps with Power Apps and Dataverse (PL-7003)
-- [ ] Create and manage automated processes by using Power Automate (PL-7002)
-- [ ] Prepare security and compliance to support Copilot for Microsoft 365
-
-**Intermediate Progress**: 0/6 (0%)
-
----
-
-## 🔐 Security (7 Skills)
-
-### Beginner Level (1 Skill)
-
-- [x] **Get started with identities and access using Microsoft Entra** ✅ *Completed: 2026-01-13*
-
-**Beginner Progress**: 1/1 (100%) 🎉
-
----
-
-### Intermediate Level (6 Skills)
-
-- [ ] Defend against cyberthreats with Microsoft Defender XDR
-- [ ] Implement information protection and data loss prevention by using Microsoft Purview
-- [ ] Implement retention, eDiscovery, and Communication Compliance in Microsoft Purview
-- [ ] Secure AI solutions in the cloud 🆕
-- [ ] Secure Azure services and workloads with Microsoft Defender for Cloud (SC-5002)
-- [ ] Secure storage for Azure Files and Azure Blob Storage (AZ-1004)
-
-**Intermediate Progress**: 0/6 (0%)
-
----
-
-## 📦 Additional Active Skills (8 Skills)
-
-*Skills not on January 2026 poster but still available*
-
-- [ ] Build an Azure AI Vision solution (AI-3004)
-- [ ] Configure SIEM security operations using Microsoft Sentinel (SC-5001)
-- [ ] Create an intelligent document processing solution with Azure AI Document Intelligence (AI-3002)
-- [ ] Deploy containers by using Azure Kubernetes Service (AZ-1003)
-- [ ] Deploy and administer Linux Virtual Machines on Microsoft Azure (AZ-1007)
-- [ ] Develop an ASP.NET Core web app that consumes an API (AZ-2003)
-- [ ] Develop generative AI solutions with Azure OpenAI Service
-- [ ] Train and deploy a machine learning model with Azure Machine Learning
-
-**Additional Skills Progress**: 0/8 (0%)
-
----
-
-## 🎯 Priority Skills (Next to Complete)
-
-### High Priority
-1. [ ] **Generate reports by using AI research agents** 🆕 - New AI business skill
-2. [ ] **Streamline business workflows with AI chat** 🆕 - New AI business skill
-3. [ ] **Get started with cloud security and monitoring tasks** - Complete beginner level
-4. [ ] **Create agents in Microsoft Copilot Studio** - Trending skill
-5. [ ] **Secure AI solutions in the cloud** 🆕 - New security skill
-
-### Microsoft Credentials AI Challenge (Jan 20 - Mar 2, 2026)
-*Complete these for sweepstakes entry:*
-- [ ] Generate reports by using AI research agents
-- [ ] Streamline business workflows with AI chat
-- [ ] Create agents in Microsoft Copilot Studio
-
----
-
-## 🏆 Achievements Tracker
-
-### Milestones
-- [x] First Applied Skills credential earned ✅ *Jan 13, 2026*
-- [x] First Technical credential earned ✅ *Jan 13, 2026*
-- [x] First Beginner level credential ✅ *Jan 13, 2026*
-- [x] First Intermediate level credential ✅ *Jan 16, 2026*
-- [ ] First Business credential earned
-- [ ] 5 credentials completed (4/5 - 80% complete!)
-- [ ] 10 credentials completed
-- [ ] 15 credentials completed
-- [ ] 20 credentials completed
-
-### Category Completion
-- [x] Cloud & AI Platforms - First skill completed ✅
-- [x] Security - First skill completed ✅
-- [ ] AI Business Solutions - Not started yet
-- [ ] All 3 categories completed (2/3 - 67% complete!)
-
-### Level Completion
-- [ ] All Beginner skills completed (2/7 - 29%)
-- [ ] All Intermediate skills completed (2/41 - 5%)
-
-### Sharing & Community
-- [ ] Shared credential on LinkedIn
-- [ ] Built portfolio project using earned skills
-- [ ] Participated in Microsoft Credentials AI Challenge
-- [ ] Helped someone else earn their first Applied Skills credential
-
----
-
-## ✅ Completed Skills Log
-
-### 2026 Achievements
-
-| # | Skill Name | Code | Date | Category | Level |
-|---|------------|------|------|----------|-------|
-| 1 | Get started with identities and access using Microsoft Entra | - | 2026-01-13 | Security | Beginner |
-| 2 | Deploy and configure Azure Monitor | AZ-1001 | 2026-01-16 | Cloud & AI Platforms | Intermediate |
-| 3 | Get started with Azure management tasks | - | 2026-01-19 | Cloud & AI Platforms | Beginner |
-| 4 | Configure secure access to your workloads using Azure networking | AZ-1002 | 2026-01-20 | Cloud & AI Platforms | Intermediate |
-
-**Current Streak**: 4 credentials in 8 days! 🔥
-
----
-
-## 📅 Learning Plan
-
-### Q1 2026 (January - March)
-**Goal**: Complete 5-7 credentials
-
-- [x] Get started with identities and access using Microsoft Entra ✅
-- [x] Deploy and configure Azure Monitor ✅
-- [x] Get started with Azure management tasks ✅
-- [x] Configure secure access to your workloads using Azure networking ✅
-- [ ] Generate reports by using AI research agents
-- [ ] Streamline business workflows with AI chat
-- [ ] Get started with cloud security and monitoring tasks
-
-### Q2 2026 (April - June)
-**Goal**: Complete 5-7 credentials, focus on intermediate level
-
-- [ ] Create agents in Microsoft Copilot Studio
-- [ ] Implement security through a pipeline using Azure DevOps
-- [ ] Build a natural language processing solution with Azure AI Language
-- [ ] Deploy cloud-native apps using Azure Container Apps
-- [ ] Secure AI solutions in the cloud
-
-### Q3 2026 (July - September)
-**Goal**: Complete 5-7 credentials, Power Platform focus
-
-- [ ] Create and manage canvas apps with Power Apps
-- [ ] Create and manage automated processes by using Power Automate
-- [ ] Create and manage model-driven apps with Power Apps and Dataverse
-
-### Q4 2026 (October - December)
-**Goal**: Complete remaining priority skills
-
-- [ ] Advanced AI and data skills
-- [ ] Security and compliance skills
-- [ ] Specialized Azure services
-
----
-
-## 🎨 Skill Categories by Interest
-
-### AI & Machine Learning
-- [ ] Build a generative AI chat app 🆕
-- [ ] Build AI-powered solutions by using Microsoft Azure Database for PostgreSQL
-- [ ] Build a natural language processing solution with Azure AI Language
-- [ ] Build an Azure AI Vision solution
-- [ ] Create an intelligent document processing solution with Azure AI Document Intelligence
-- [ ] Develop generative AI apps with Azure OpenAI and Semantic Kernel
-- [ ] Develop generative AI solutions with Azure OpenAI Service
-- [ ] Enhance agents with autonomous capabilities 🆕
-- [ ] Generate reports by using AI research agents 🆕
-- [ ] Implement knowledge mining with Azure AI Search
-- [ ] Secure AI solutions in the cloud 🆕
-- [ ] Train and deploy a machine learning model with Azure Machine Learning
-
-### Cloud Infrastructure & Networking
-- [x] Configure secure access to your workloads using Azure networking ✅
-- [ ] Deploy and administer Linux Virtual Machines on Microsoft Azure
-- [ ] Deploy cloud-native apps using Azure Container Apps
-- [ ] Deploy containers by using Azure Kubernetes Service
-- [x] Get started with Azure management tasks ✅
-
-### Monitoring & DevOps
-- [ ] Automate Azure Load Testing by using GitHub Actions
-- [x] Deploy and configure Azure Monitor ✅
-- [ ] Get started with cloud security and monitoring tasks
-- [ ] Implement security through a pipeline using Azure DevOps
-
-### Security & Compliance
-- [ ] Defend against cyberthreats with Microsoft Defender XDR
-- [x] Get started with identities and access using Microsoft Entra ✅
-- [ ] Implement information protection and data loss prevention by using Microsoft Purview
-- [ ] Implement retention, eDiscovery, and Communication Compliance in Microsoft Purview
-- [ ] Prepare security and compliance to support Copilot for Microsoft 365
-- [ ] Secure Azure services and workloads with Microsoft Defender for Cloud
-- [ ] Secure storage for Azure Files and Azure Blob Storage
-- [ ] Configure SIEM security operations using Microsoft Sentinel
-
-### Data & Analytics
-- [ ] Build AI-powered solutions by using Microsoft Azure Database for PostgreSQL
-- [ ] Configure and migrate to Azure Database for PostgreSQL
-- [ ] Develop data-driven applications by using Microsoft Azure SQL Database
-- [ ] Implement a data warehouse in Microsoft Fabric
-- [ ] Implement a Real-Time Intelligence solution with Microsoft Fabric
-- [ ] Migrate SQL Server workloads to Azure SQL Database
-
-### Microsoft 365 & Business Applications
-- [ ] Create agents in Microsoft Copilot Studio
-- [ ] Create and manage automated processes by using Power Automate
-- [ ] Create and manage canvas apps with Power Apps
-- [ ] Create and manage model-driven apps with Power Apps and Dataverse
-- [ ] Extend Microsoft 365 Copilot with declarative agents by using Visual Studio Code
-- [ ] Generate reports by using AI research agents 🆕
-- [ ] Streamline business workflows with AI chat 🆕
-
-### Development
-- [ ] Accelerate app development by using GitHub Copilot
-- [ ] Develop an ASP.NET Core web app that consumes an API
-- [ ] Get started with classes, properties, and methods in C#
-
-### Identity & Access Management
-- [ ] Administer Active Directory Domain Services
-- [x] Get started with identities and access using Microsoft Entra ✅
-
----
-
-## 📊 Progress Tracking
-
-### By Skill Level
-- **Beginner**: 2/7 completed (29%) ▰▰▱▱▱▱▱
-- **Intermediate**: 2/41 completed (5%) ▱▱▱▱▱▱▱▱▱▱
-
-### By Category
-- **Cloud & AI Platforms**: 3/22 completed (14%) ▰▱▱▱▱▱▱
-- **AI Business Solutions**: 0/8 completed (0%) ▱▱▱▱▱▱▱
-- **Security**: 1/7 completed (14%) ▰▱▱▱▱▱▱
-- **Additional Active**: 0/8 completed (0%) ▱▱▱▱▱▱▱
-
-### By Type
-- **Technical Skills**: 4/42 completed (10%)
-- **Business Skills**: 0/10 completed (0%)
-
----
-
-## 🔗 Quick Links
-
-* [My Microsoft Learn Profile](https://learn.microsoft.com/en-gb/users/ksaiprasad1/credentials/applied-skills/b092359ba9365f35#applied-skills)
-* [All Applied Skills](https://learn.microsoft.com/en-us/credentials/applied-skills/)
+* [Microsoft Applied Skills Homepage](https://learn.microsoft.com/en-us/credentials/applied-skills/)
+* [Browse All Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 * [Download Official Poster](https://aka.ms/AppliedSkillsPoster)
-* [Microsoft Credentials AI Challenge](https://learn.microsoft.com/en-us/credentials/support/microsoft-credentials-ai-challenge-sweepstakes-frequently-asked-questions)
+* [Applied Skills Process Overview](https://learn.microsoft.com/en-us/credentials/support/appliedskills-process-overview)
 * [Applied Skills FAQ](https://learn.microsoft.com/en-us/credentials/support/applied-skills-faq)
 
 ---
 
-## 🎯 2026 Goals
+## 📊 Progress Dashboard
 
-- [ ] Complete all Applied Skills by end of year
-- [ ] Earn at least 1 skill from all 3 main categories
-- [ ] Complete 3+ Business-focused credentials
-- [ ] Participate in Microsoft Credentials AI Challenge
-- [ ] Build portfolio projects showcasing skills
-- [ ] Share achievements on LinkedIn
-- [ ] Help others in the community
+### Overall Statistics
 
----
+* **Total Skills Available**: 42 (on poster) + 8 (additional active) = 50 total
+* **Technical Skills**: 32
+* **Business Skills**: 10
+* **Completed**: 4 ✅
+* **In Progress**: 0
+* **Planned**: 0
+* **Completion Rate**: 8% (4/50)
 
-## 📝 Notes
+### Skills by Status
 
-### Study Tips
-- Complete official learning paths before attempting assessments
-- Use Microsoft Learn sandboxes for hands-on practice
-- Join Microsoft Learn community for tips and support
-- Review study guides on credential pages
-- Practice in real Azure/M365 environments when possible
-
-### Assessment Tips
-- Read each task carefully before starting
-- Manage your time (note the assessment duration)
-- Use tools you're comfortable with (Portal, CLI, PowerShell)
-- Tasks can often be completed in any order
-- Results available within minutes (up to 24 hours)
-- Can retake after 72 hours if needed
+| Status | Count |
+| --- | --- |
+| ✅ Completed | 4 |
+| ⬜ Not Started | 46 |
+| 🔄 In Progress | 0 |
+| ⏸️ On Hold | 0 |
 
 ---
 
-**Last Updated**: February 2026  
-**Next Update**: After completing next credential
+## 🗂️ Skills by Category
 
-*Keep this checklist updated as you progress through your Applied Skills journey! 🚀*
+### 🌐 Cloud & AI Platforms (22 Skills)
+
+#### ☁️ Beginner Level
+
+| Skill Name | Type | Code | Status | Started | Completed | Certificate |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Create an AI agent](https://learn.microsoft.com/en-us/credentials/applied-skills/) | 🆕 Technical | - | ⬜ Coming Soon | - | - | - |
+| [Get started with classes, properties, and methods in C#](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-classes-properties-and-methods-in-csharp/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Get started with cloud security and monitoring tasks](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-cloud-security-and-monitoring-tasks/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Get started with Azure management tasks](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-azure-management-tasks/) | Technical | - | ✅ Completed | 2026-01-19 | 2026-01-19 | [View](https://learn.microsoft.com/en-gb/users/ksaiprasad1/credentials/applied-skills/b092359ba9365f35#applied-skills) |
+
+#### ☁️ Intermediate Level
+
+| Skill Name | Type | Code | Status | Started | Completed | Certificate |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Accelerate app development by using GitHub Copilot](https://learn.microsoft.com/en-us/credentials/applied-skills/accelerate-app-development-by-using-github-copilot/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Administer Active Directory Domain Services](https://learn.microsoft.com/en-us/credentials/applied-skills/administer-active-directory-domain-services/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-ai/) | Technical | AI-3003 | ⬜ Not Started | - | - | - |
+| [Build AI-powered solutions by using Microsoft Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/credentials/applied-skills/build-ai-powered-solutions-by-using-microsoft-azure-database-for-postgresql/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Build a generative AI chat app](https://learn.microsoft.com/en-us/credentials/applied-skills/build-a-generative-ai-chat-app/) | 🆕 Technical | - | ⬜ Not Started | - | - | - |
+| [Configure and migrate to Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-and-migrate-to-azure-database-for-postgresql/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Configure secure access to your workloads using Azure networking](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-secure-workloads-use-azure-virtual-networking/) | Technical | AZ-1002 | ✅ Completed | 2026-01-20 | 2026-01-20 | [View](https://learn.microsoft.com/en-gb/users/ksaiprasad1/credentials/applied-skills/b092359ba9365f35#applied-skills) |
+| [Deploy and configure Azure Monitor](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/) | Technical | AZ-1001 | ✅ Completed | 2026-01-16 | 2026-01-16 | [View](https://learn.microsoft.com/en-gb/users/ksaiprasad1/credentials/applied-skills/b092359ba9365f35#applied-skills) |
+| [Deploy cloud-native apps using Azure Container Apps](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-cloud-native-apps-using-azure-container-apps/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Develop generative AI apps with Azure OpenAI and Semantic Kernel](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-using-microsoft-azure-openai-and-semantic-kernel/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Develop data-driven applications by using Microsoft Azure SQL Database](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-data-driven-applications-azure-sql-database/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Enhance agents with autonomous capabilities](https://learn.microsoft.com/en-us/credentials/applied-skills/enhance-agents-with-autonomous-capabilities/) | 🆕 Technical | - | ⬜ Not Started | - | - | - |
+| [Extend Microsoft 365 Copilot with declarative agents by using Visual Studio Code](https://learn.microsoft.com/en-us/credentials/applied-skills/extend-microsoft-365-copilot-with-declarative-agents/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Implement knowledge mining with Azure AI Search](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-knowledge-mining-with-azure-cognitive-search/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Implement a Real-Time Intelligence solution with Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-a-real-time-intelligence-solution-with-microsoft-fabric/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Implement a data warehouse in Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-lakehouse-microsoft-fabric/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Implement security through a pipeline using Azure DevOps](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-security-through-pipeline-using-devops/) | Technical | AZ-2001 | ⬜ Not Started | - | - | - |
+| [Migrate SQL Server workloads to Azure SQL Database](https://learn.microsoft.com/en-us/credentials/applied-skills/migrate-sql-workloads-azure-sql-database/) | Technical | - | ⬜ Not Started | - | - | - |
+
+---
+
+### 🤖 AI Business Solutions (8 Skills)
+
+#### 🎯 Beginner Level
+
+| Skill Name | Type | Code | Status | Started | Completed | Certificate |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Generate reports by using AI research agents](https://learn.microsoft.com/en-us/credentials/applied-skills/generate-reports-by-using-ai-research-agents/) | 🆕 Business | - | ⬜ Not Started | - | - | - |
+| [Streamline business workflows with AI chat](https://learn.microsoft.com/en-us/credentials/applied-skills/streamline-business-workflows-with-ai-chat/) | 🆕 Business | - | ⬜ Not Started | - | - | - |
+
+#### 🎯 Intermediate Level
+
+| Skill Name | Type | Code | Status | Started | Completed | Certificate |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Automate Azure Load Testing by using GitHub Actions](https://learn.microsoft.com/en-us/credentials/applied-skills/automate-azure-load-testing-by-using-github-actions/) | Business | - | ⬜ Not Started | - | - | - |
+| [Create agents in Microsoft Copilot Studio](https://learn.microsoft.com/en-us/credentials/applied-skills/create-agents-in-microsoft-copilot-studio/) | Business | - | ⬜ Not Started | - | - | - |
+| [Create and manage canvas apps with Power Apps](https://learn.microsoft.com/en-us/credentials/applied-skills/create-and-manage-canvas-apps-with-power-apps/) | Business | PL-7001 | ⬜ Not Started | - | - | - |
+| [Create and manage model-driven apps with Power Apps and Dataverse](https://learn.microsoft.com/en-us/credentials/applied-skills/create-and-manage-model-driven-apps-with-power-apps-and-dataverse/) | Business | PL-7003 | ⬜ Not Started | - | - | - |
+| [Create and manage automated processes by using Power Automate](https://learn.microsoft.com/en-us/credentials/applied-skills/create-and-manage-automated-processes-by-using-power-automate/) | Business | PL-7002 | ⬜ Not Started | - | - | - |
+| [Prepare security and compliance to support Copilot for Microsoft 365](https://learn.microsoft.com/en-us/credentials/applied-skills/prepare-security-and-compliance-to-support-microsoft-365-copilot/) | Business | - | ⬜ Not Started | - | - | - |
+
+---
+
+### 🔐 Security (7 Skills)
+
+#### 🛡️ Beginner Level
+
+| Skill Name | Type | Code | Status | Started | Completed | Certificate |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Get started with identities and access using Microsoft Entra](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-identities-and-access-using-microsoft-entra/) | Technical | - | ✅ Completed | 2026-01-13 | 2026-01-13 | [View](https://learn.microsoft.com/en-gb/users/ksaiprasad1/credentials/applied-skills/b092359ba9365f35#applied-skills) |
+
+#### 🛡️ Intermediate Level
+
+| Skill Name | Type | Code | Status | Started | Completed | Certificate |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Defend against cyberthreats with Microsoft Defender XDR](https://learn.microsoft.com/en-us/credentials/applied-skills/defend-against-cyberthreats-with-microsoft-defender-xdr/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Implement information protection and data loss prevention by using Microsoft Purview](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-information-protection-and-data-loss-prevention-by-using-microsoft-purview/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Implement retention, eDiscovery, and Communication Compliance in Microsoft Purview](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-retention-ediscovery-and-communication-compliance-in-microsoft-purview/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Secure AI solutions in the cloud](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-ai-solutions-in-the-cloud/) | 🆕 Technical | - | ⬜ Not Started | - | - | - |
+| [Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-azure-services-and-workloads-with-microsoft-defender-for-cloud-regulatory-compliance-controls/) | Technical | SC-5002 | ⬜ Not Started | - | - | - |
+| [Secure storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/) | Technical | AZ-1004 | ⬜ Not Started | - | - | - |
+
+---
+
+### 🎉 Additional Skills (Not on January 2026 Poster but Still Active)
+
+| Skill Name | Type | Code | Status | Started | Completed | Certificate |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Build an Azure AI Vision solution](https://learn.microsoft.com/en-us/credentials/applied-skills/build-azure-ai-vision-solution/) | Technical | AI-3004 | ⬜ Not Started | - | - | - |
+| [Configure SIEM security operations using Microsoft Sentinel](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/) | Technical | SC-5001 | ⬜ Not Started | - | - | - |
+| [Create an intelligent document processing solution with Azure AI Document Intelligence](https://learn.microsoft.com/en-us/credentials/applied-skills/create-intelligent-document-solution-azure-ai/) | Technical | AI-3002 | ⬜ Not Started | - | - | - |
+| [Deploy containers by using Azure Kubernetes Service](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-containers-by-using-azure-kubernetes-service/) | Technical | AZ-1003 | ⬜ Not Started | - | - | - |
+| [Deploy and administer Linux Virtual Machines on Microsoft Azure](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-administer-linux-virtual-machines-on-microsoft-azure/) | Technical | AZ-1007 | ⬜ Not Started | - | - | - |
+| [Develop an ASP.NET Core web app that consumes an API](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-an-aspnet-core-web-app-that-consumes-an-api/) | Technical | AZ-2003 | ⬜ Not Started | - | - | - |
+| [Develop generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Train and deploy a machine learning model with Azure Machine Learning](https://learn.microsoft.com/en-us/credentials/applied-skills/train-and-deploy-a-machine-learning-model-with-azure-machine-learning/) | Technical | - | ⬜ Not Started | - | - | - |
+
+
+
+## 🆕 What's New in 2026
+
+### New Applied Skills (January 2026)
+
+**Business-Focused Credentials (Beginner):**
+* 🆕 **Generate reports by using AI research agents** - Use Researcher in Microsoft 365 Copilot
+* 🆕 **Streamline business workflows with AI chat** - Manage meetings and collaboration
+
+**Technical Credentials:**
+* 🆕 **Create an AI agent** (Coming Soon) - Create and orchestrate agents
+* 🆕 **Build a generative AI chat app** - Use Microsoft Foundry
+* 🆕 **Enhance agents with autonomous capabilities** - Design autonomous agents
+* 🆕 **Secure AI solutions in the cloud** - Safeguard AI applications
+
+### Program Enhancements
+
+* **Faster to earn** - Streamlined assessment format
+* **Shorter prep time** - More focused learning paths
+* **Expanded portfolio** - Now includes business-focused credentials
+* **Improved lab experience**:
+  * Full-screen lab view
+  * Dark mode option
+  * More prominent time display
+
+### Microsoft Credentials AI Challenge (January 20 - March 2, 2026)
+
+* Complete qualifying AI-focused Applied Skills
+* Chance to win 50% discount on Microsoft Certification exams
+* 5,000 winners
+* [Learn more about the challenge](https://learn.microsoft.com/en-us/credentials/support/microsoft-credentials-ai-challenge-sweepstakes-frequently-asked-questions)
+
+---
+
+## 📚 Study Resources
+
+### Official Microsoft Learn
+
+* [Microsoft Applied Skills Homepage](https://learn.microsoft.com/en-us/credentials/applied-skills/)
+* [Microsoft Learn Documentation](https://learn.microsoft.com/)
+* [Microsoft Learn Training Modules](https://learn.microsoft.com/en-us/training/)
+* [Applied Skills Process Overview](https://learn.microsoft.com/en-us/credentials/support/appliedskills-process-overview)
+* [Applied Skills FAQ](https://learn.microsoft.com/en-us/credentials/support/applied-skills-faq)
+* [Choose Your Microsoft Credential Guide](https://learn.microsoft.com/en-us/credentials/)
+
+### Practice Labs & Sandboxes
+
+* [Microsoft Learn Sandbox](https://learn.microsoft.com/en-us/training/) - Free practice environments
+* [Azure Free Account](https://azure.microsoft.com/free/) - $200 credit + 12 months free services
+* [Microsoft 365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program) - Free sandbox
+
+### Community Resources
+
+* [Microsoft Learn Community](https://techcommunity.microsoft.com/)
+* [Microsoft Q&A](https://learn.microsoft.com/en-us/answers/)
+* [Microsoft Credentials Blog](https://techcommunity.microsoft.com/category/microsoft-learn-blog)
+* [Reddit r/Azure](https://www.reddit.com/r/Azure/)
+* [Reddit r/PowerPlatform](https://www.reddit.com/r/PowerPlatform/)
+* [Reddit r/MicrosoftLearn](https://www.reddit.com/r/MicrosoftLearn/)
+
+### YouTube Channels
+
+* [Microsoft Azure](https://www.youtube.com/c/MicrosoftAzure)
+* [Microsoft Developer](https://www.youtube.com/c/MicrosoftDeveloper)
+* [Microsoft 365](https://www.youtube.com/c/microsoft365)
+* [John Savill's Technical Training](https://www.youtube.com/c/NTFAQGuy)
+* [Adam Marczak - Azure for Everyone](https://www.youtube.com/c/Azure4Everyone)
+
+---
+
+## 🎯 Assessment Tips
+
+### General Preparation
+
+* **Format**: Interactive lab environment (not multiple choice)
+* **Scoring**: Based on task completion and results
+* **Retakes**: Can retake assessments (must wait 72 hours between attempts)
+* **Cost**: FREE (as of 2026)
+* **Results**: Available within minutes (up to 24 hours)
+
+### Success Strategies
+
+1. **Complete Learning Paths**: Finish the official learning path before attempting assessment
+2. **Practice in Sandboxes**: Use free Azure/M365 sandboxes for hands-on practice
+3. **Time Management**: Monitor time during the assessment
+4. **Read Carefully**: Follow task instructions precisely
+5. **Use Available Tools**: Portal, CLI, PowerShell - use what you're comfortable with
+6. **Don't Rush**: Quality over speed - incorrect tasks impact your score
+
+### During the Assessment
+
+* ✅ Full-screen mode available
+* ✅ Dark mode option
+* ✅ Prominent time display
+* ✅ Tasks can typically be completed in any order
+* ✅ Results available within minutes
+* ❌ No pausing - must complete in one session
+* ❌ No external resources during assessment
+* ❌ Must wait 72 hours between retake attempts
+
+### Accommodations
+
+Microsoft offers various accommodations for learners who need support. Visit the assessment page and select "Request Accommodations" if needed.
+
+---
+
+## 🏆 Completed Skills Log
+
+### ✅ January 20, 2026 - Configure secure access to your workloads using Azure networking
+
+* **Skill Type**: Technical
+* **Skill Level**: Intermediate
+* **Category**: Cloud & AI Platforms
+* **Skill Code**: AZ-1002
+* **Status**: ✅ Completed
+
+---
+
+### ✅ January 19, 2026 - Get started with Azure management tasks
+
+* **Skill Type**: Technical
+* **Skill Level**: Beginner
+* **Category**: Cloud & AI Platforms
+* **Status**: ✅ Completed
+
+---
+
+### ✅ January 16, 2026 - Deploy and configure Azure Monitor
+
+* **Skill Type**: Technical
+* **Skill Level**: Intermediate
+* **Category**: Cloud & AI Platforms
+* **Skill Code**: AZ-1001
+* **Status**: ✅ Completed
+
+---
+
+### ✅ January 13, 2026 - Get started with identities and access using Microsoft Entra
+
+* **Skill Type**: Technical
+* **Skill Level**: Beginner
+* **Category**: Security
+* **Status**: ✅ Completed
+
+---
+
+## 🏆 Completed Skills Log
+
+### Template for Each Completed Skill
+
+**[Date] - [Skill Name]**
+
+* **Skill Type**: Technical/Business
+* **Skill Level**: Beginner/Intermediate
+* **Category**: Cloud & AI Platforms / AI Business Solutions / Security
+* **Assessment Duration**: X hours
+* **Score/Result**: Pass/Fail
+* **Key Learnings**:
+  + Learning point 1
+  + Learning point 2
+  + Learning point 3
+* **Challenges Faced**: Description of any difficulties
+* **Real-World Application**: How this skill applies to my work
+* **Next Steps**: Related skills or certifications to pursue
+
+---
+
+## 📊 Status Legend
+
+* ⬜ Not Started
+* 🔄 In Progress (learning path underway)
+* ✅ Completed (assessment passed)
+* ⏸️ On Hold (paused for other priorities)
+* ❌ Failed (needs retry after 72 hours)
+* 🆕 New (recently added to the program)
+* 🔜 Coming Soon (announced but not yet available)
+
+---
+
+## 🎉 Achievements & Milestones
+
+* ✅ First Applied Skills credential earned - **January 13, 2026**
+* ☐ First Business credential earned
+* ✅ First Technical credential earned - **January 13, 2026**
+* ✅ First Beginner level credential - **January 13, 2026**
+* ✅ First Intermediate level credential - **January 16, 2026**
+* ☐ 5 credentials completed (4/5 - 80% there!)
+* ☐ 10 credentials completed
+* ☐ 15 credentials completed
+* ☐ 20 credentials completed
+* ☐ Completed all beginner level skills (2/7 completed)
+* ☐ Completed skills in all three categories (2/3 completed: Cloud & AI Platforms ✅, Security ✅)
+* ☐ Participated in Microsoft Credentials AI Challenge
+* ☐ Shared credential on LinkedIn
+* ☐ Built portfolio project using earned skills
+* ☐ Helped someone else earn their first Applied Skills credential
+
+---
+
+## 📞 Connect
+
+Tracking your Applied Skills journey too? Let's connect!
+
+* **GitHub**: [ksaiprasad1](https://github.com/ksaiprasad1)
+* **LinkedIn**: [Your LinkedIn Profile]
+* **Microsoft Learn Profile**: [ksaiprasad1](https://learn.microsoft.com/en-gb/users/ksaiprasad1/credentials/applied-skills/b092359ba9365f35#applied-skills)
+* **Email**: [ksaiprasad1@outlook.com](mailto:ksaiprasad1@outlook.com)
+
+---
+
+## 🔄 Comparison: Applied Skills vs. Certifications
+
+| Aspect | Applied Skills | Certifications |
+| --- | --- | --- |
+| **Focus** | Scenario-based, specific tasks | Role-based, comprehensive |
+| **Types** | Technical & Business | Fundamentals, Role-based, Expert, Specialty |
+| **Time to Prep** | 4-5 hours (typical) | 20+ hours |
+| **Assessment** | Interactive lab (2 hours) | Multiple choice exam (varies) |
+| **Cost** | FREE | $99-$165 per exam |
+| **Format** | Hands-on, task-based | Knowledge-based exam |
+| **Expiration** | Never expires | Annual renewal required |
+| **Scope** | Narrow, targeted (1 skill) | Broad, role-encompassing (4-6 skill areas) |
+| **Best For** | Project-specific skills, quick validation | Career advancement, job roles |
+| **Results** | Minutes to 24 hours | Immediate |
+
+**Both are valuable!** Applied Skills complement certifications and can help prepare for them. Many professionals earn both.
+
+---
+
+## 💡 Tips from the Community
+
+> "Complete as many Microsoft Learn modules as you can beforehand. They really help you to prepare for the assessment, on top of showing how to make a bigger impact with this technology!" - Applied Skills Learner
+
+> "Microsoft Applied Skills is such a great way to get experience with tooling and to build your skill set. I would encourage everyone to give it a try... You can always retake it as many times as you need." - Applied Skills Learner
+
+> "With the tech world changing so fast, it's important to get the knowledge required to stand out, which I did by earning Microsoft Applied Skills. I have earned 22 Applied Skills credentials so far." - Applied Skills Expert
+
+> "With Microsoft Applied Skills, our learners working on current and future strategic digital transformation projects will be able to grasp knowledge and validate their skills in a shorter period of time." - Organization Leader
+
+---
+
+## 🔮 Future Plans & Roadmap
+
+### Coming Soon
+
+* **Create an AI agent** - Configure and orchestrate agents for business impact
+* Additional business-focused credentials expected throughout 2026
+* More AI and Microsoft 365 Copilot related skills
+
+
+---
+
+## 📄 License
+
+This repository is for personal tracking and learning purposes. Feel free to fork and adapt for your own journey.
+
+---
+
+## 🙏 Acknowledgments
+
+* Microsoft Learn team for creating the Applied Skills program
+* Microsoft Learn community for sharing knowledge and experiences
+* All contributors to Microsoft documentation
+* Fellow learners sharing their experiences and tips
+
+---
+
+## 📝 Repository Structure
+
+```
+microsoft-applied-skills-tracker/
+├── README.md                           # This file - main tracker
+├── .gitignore                          # Git ignore rules
+├── CONTRIBUTING.md                     # Contribution guidelines
+├── LICENSE                            # MIT License
+├── SKILLS-CHECKLIST.md                # Quick reference checklist
+├── certificates/                       # Completed credentials
+│   ├── README.md
+│   ├── badges/                        # Badge images
+│   ├── technical/                     # Technical credentials
+│   └── business/                      # Business credentials
+├── notes/                             # Study notes for each skill
+│   ├── README.md
+│   ├── cloud-ai-platforms/
+│   ├── ai-business-solutions/
+│   └── security/
+├── resources/                         # Curated learning resources
+│   ├── README.md
+│   ├── official-docs.md
+│   ├── community-resources.md
+│   └── youtube-channels.md
+└── study-plans/                       # Study schedules and plans
+    ├── README.md
+    ├── templates/
+    └── [skill-name]-plan.md
+```
+
+---
+
+## 📖 How to Use This Repository
+
+1. **Star & Fork**: Star this repo and fork it to track your own journey
+2. **Clone Locally**: Clone to your machine for offline access
+3. **Track Progress**: Update the tables as you complete skills
+4. **Take Notes**: Add your learnings in the `notes/` folder
+5. **Share**: Share your achievements on LinkedIn using #MicrosoftAppliedSkills
+6. **Contribute**: If you find errors or have suggestions, open an issue or PR
+
+---
+
+**Last Updated**: February 2026 (Based on Official Microsoft Applied Skills Poster - January 2026)
+
+*Keep learning, keep growing! 🚀*
+
+---
+
+**Pro Tip**: ⭐ Star this repository to bookmark it, and click "Watch" to get notifications when you update it!
+
+---
+
+## 🔍 Quick Links
+
+* [Official Applied Skills Page](https://learn.microsoft.com/en-us/credentials/applied-skills/)
+* [Download Poster (PDF)](https://aka.ms/AppliedSkillsPoster)
+* [Microsoft Credentials AI Challenge](https://learn.microsoft.com/en-us/credentials/support/microsoft-credentials-ai-challenge-sweepstakes-frequently-asked-questions)
+* [Browse All Credentials](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+* [Assessment Lab FAQ](https://learn.microsoft.com/en-us/credentials/support/applied-skills-faq)
