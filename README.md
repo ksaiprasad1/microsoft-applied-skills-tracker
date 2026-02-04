@@ -37,7 +37,7 @@ Microsoft Applied Skills are interactive, scenario-based assessments that valida
 * **Technical Skills**: 32
 * **Business Skills**: 10
 * **Completed**: 4 ✅
-* **In Progress**: 0
+* **In Progress**: 2
 * **Planned**: 0
 * **Completion Rate**: 8% (4/50)
 
@@ -47,7 +47,7 @@ Microsoft Applied Skills are interactive, scenario-based assessments that valida
 | --- | --- |
 | ✅ Completed | 4 |
 | ⬜ Not Started | 46 |
-| 🔄 In Progress | 0 |
+| 🔄 In Progress | 2 |
 | ⏸️ On Hold | 0 |
 
 ---
