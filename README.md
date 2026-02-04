@@ -172,10 +172,110 @@ Microsoft Applied Skills are interactive, scenario-based assessments that valida
 
 ### Microsoft Credentials AI Challenge (January 20 - March 2, 2026)
 
-* Complete qualifying AI-focused Applied Skills
-* Chance to win 50% discount on Microsoft Certification exams
-* 5,000 winners
-* [Learn more about the challenge](https://learn.microsoft.com/en-us/credentials/support/microsoft-credentials-ai-challenge-sweepstakes-frequently-asked-questions)
+**🎯 Challenge Overview:**
+Join the Microsoft Credentials AI Challenge to validate your AI skills with hands-on assessments and get a chance to win certification discounts!
+
+**📚 Qualifying Applied Skills:**
+
+Complete any of these three AI-focused credentials to participate:
+
+1. **[Generate reports by using AI research agents](https://learn.microsoft.com/en-us/credentials/applied-skills/generate-reports-by-using-ai-research-agents/)**  
+   Gather, analyze, and produce data-driven reports using Researcher in Microsoft 365 Copilot  
+   *Level: Beginner | Type: Business*
+
+2. **[Streamline business workflows with AI chat](https://learn.microsoft.com/en-us/credentials/applied-skills/streamline-business-workflows-with-ai-chat/)**  
+   Manage meetings, draft content, and improve collaboration with Microsoft 365 Copilot Chat  
+   *Level: Beginner | Type: Business*
+
+3. **[Create agents in Microsoft Copilot Studio](https://learn.microsoft.com/en-us/credentials/applied-skills/create-agents-in-microsoft-copilot-studio/)**  
+   Design, configure, and deploy agents in Microsoft Copilot Studio  
+   *Level: Intermediate | Type: Business*
+
+**🎁 Benefits:**
+
+* ✅ **FREE Applied Skills assessments** - No cost to take any assessment
+* 🎟️ **50% discount on Microsoft Certification exams** - For winners
+* 🏆 **5,000 winners total** - Weekly drawings throughout the challenge period
+* 📜 **Credentials never expire** - Your achievements last forever
+* 🚀 **Build real-world AI skills** - Hands-on experience with Microsoft 365 Copilot
+* 💼 **Career advancement** - Stand out to employers with verified credentials
+* 🎯 **Certification preparation** - Get ready for these exams:
+  * Microsoft Certified: AI Business Professional (Exam AB-730)
+  * Microsoft Certified: AI Transformation Leader (Exam AB-731)
+  * Microsoft 365 Certified: Copilot and Agent Administration Fundamentals (Exam AB-900)
+
+**📅 Important Dates:**
+
+* Challenge Period: January 20 - March 2, 2026
+* Weekly Drawings: Start February 4, 2026
+* Final Drawing: March 4, 2026
+* Winner Notification: Within 7 days of each drawing
+
+**🎯 How to Join the Challenge:**
+
+**Step 1: Register for the Challenge**
+- Visit the [Microsoft Credentials AI Challenge page](https://learn.microsoft.com/en-us/credentials/)
+- Register for one of the six challenge tracks (each focuses on different AI skills)
+- No cost to register
+
+**Step 2: Choose Your Qualifying Skill**
+- Select one of the three qualifying Applied Skills listed above
+- Review the learning path and study guide
+- Complete the training modules (recommended but not required)
+
+**Step 3: Take the Assessment**
+- Launch the interactive lab assessment (takes approximately 2 hours)
+- Complete real-world tasks in a hands-on lab environment
+- Submit your assessment
+
+**Step 4: Pass the Assessment**
+- Results typically available within minutes (up to 24 hours)
+- Must pass the assessment to earn the credential
+- Can retake after 72 hours if needed
+
+**Step 5: Submit Sweepstakes Entry**
+- After earning your credential, visit the [Entry Form](https://aka.ms/EnterMicrosoftCredentialsAIChallenge)
+- Provide required information:
+  * Your Microsoft Learn username
+  * Email address for voucher delivery
+  * Credential Link (from your Microsoft Learn profile under Credentials tab)
+- Submit entry before March 2, 2026 (11:59 PM PT)
+
+**🏆 How to Win the 50% Discount Voucher:**
+
+**Weekly Drawing Process:**
+1. **Automatic Entry**: Once you submit the entry form, you're entered into the drawing
+2. **Weekly Drawings**: Drawings held every week starting February 4, 2026
+3. **Random Selection**: Winners selected randomly from eligible entries
+4. **Roll-Over**: If not selected in a drawing, your entry automatically rolls over to the next week
+5. **One Entry Only**: You can only win once, even if you complete multiple credentials
+
+**Winner Notification:**
+- Winners notified via email within 7 days of each drawing
+- Email sent from "MindHub Pro by Pearson VUE"
+- Email contains:
+  * Your 50% discount voucher code
+  * Expiration date
+  * Redemption instructions
+
+**Voucher Details:**
+- **Valid For**: Any Microsoft Certification exam conducted by Pearson VUE
+- **Not Valid For**: GitHub Certification exams
+- **Redemption**: Follow instructions in winner notification email
+- **Expiration**: Check your voucher for specific expiration date
+
+**Important Notes:**
+- ✅ Only one entry per person (completing multiple credentials doesn't increase chances)
+- ✅ Must earn credential between January 20 - March 2, 2026
+- ✅ Entry form must be submitted by March 2, 2026
+- ✅ Check spam/junk folder for winner notification email
+- ✅ 5,000 total winners across all weekly drawings
+
+**🔗 Resources:**
+
+* [Challenge Details & FAQ](https://learn.microsoft.com/en-us/credentials/support/microsoft-credentials-ai-challenge-sweepstakes-frequently-asked-questions)
+* [Official Rules](https://learn.microsoft.com/en-us/credentials/support/microsoft-credentials-ai-challenge-sweepstakes-official-rules)
+* [Entry Form](https://aka.ms/EnterMicrosoftCredentialsAIChallenge) *(Available after earning qualifying credential)*
 
 ---
 
