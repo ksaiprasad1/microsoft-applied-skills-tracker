@@ -86,7 +86,7 @@ Microsoft Applied Skills are interactive, scenario-based assessments that valida
 | [Implement a Real-Time Intelligence solution with Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-a-real-time-intelligence-solution-with-microsoft-fabric/) | Technical | - | ⬜ Not Started | - | - | - |
 | [Implement a data warehouse in Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-lakehouse-microsoft-fabric/) | Technical | - | ⬜ Not Started | - | - | - |
 | [Implement security through a pipeline using Azure DevOps](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-security-through-pipeline-using-devops/) | Technical | AZ-2001 | ⬜ Not Started | - | - | - |
-| [Migrate SQL Server workloads to Azure SQL Database](https://learn.microsoft.com/en-us/credentials/applied-skills/migrate-sql-workloads-azure-sql-database/) | Technical | - | ⬜ Not Started | - | - | - |
+| [Migrate SQL Server workloads to Azure SQL Database](https://learn.microsoft.com/en-us/credentials/applied-skills/migrate-sql-workloads-azure-sql-database/) | Technical | - | 🔄 In Progress | - | - | - |
 
 ---
 
