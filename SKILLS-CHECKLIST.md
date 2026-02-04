@@ -320,7 +320,7 @@
 
 ## 🎯 2026 Goals
 
-- [ ] Complete 15-20 Applied Skills by end of year
+- [ ] Complete all Applied Skills by end of year
 - [ ] Earn at least 1 skill from all 3 main categories
 - [ ] Complete 3+ Business-focused credentials
 - [ ] Participate in Microsoft Credentials AI Challenge
